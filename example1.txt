@@ -1,3 +1,2 @@
-Hi this my second lab for git practice
-
-this also changed
+Hi 
+this is my first git lab 
