@@ -1,4 +1,3 @@
-Hi this my second lab for git practice
-In this directory also i have chaged as per client requirement 
-client is satisfyed 
-changes done 
+i have learn how to create a files 
+i have created a copy file to update 
+i am updating the changes 
