@@ -1,2 +1,4 @@
 Hi 
 this is my first git lab 
+i have created copy2 file to update ne data in master 
+changes are done 
